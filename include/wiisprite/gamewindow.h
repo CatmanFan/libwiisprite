@@ -3,7 +3,7 @@
  */
 
 #ifndef LIBWIISPRITE_GAMEWINDOW
-#define LIBWIISRPITE_GAMEWINDOW
+#define LIBWIISPRITE_GAMEWINDOW
 
 #include <stdlib.h>
 #include <gccore.h>
